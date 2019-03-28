@@ -12,11 +12,6 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: image
-  label: Image
-  type: text
-  hidden: false
-  default: ''
 - name: writer
   label: Writer
   type: text
@@ -27,6 +22,9 @@ fields:
   type: tag_list
   hidden: false
   default: ''
+- type: file
+  name: image
+  label: image
 - name: weight
   label: Weight
   type: text
