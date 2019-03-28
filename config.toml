@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://hugo-pasta.netlify.com/"
 title = "Nederburg"
 theme = "hugo-nederburg-theme"
 languageCode = "fr-fr"
