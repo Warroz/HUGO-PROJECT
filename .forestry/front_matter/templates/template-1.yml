@@ -30,3 +30,5 @@ fields:
   type: text
   hidden: false
   default: ''
+pages:
+- content/post/fullmetal-alchemist.md
