@@ -31,4 +31,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/post/azerty.md
 - content/post/fullmetal-alchemist.md
