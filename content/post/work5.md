@@ -1,33 +1,23 @@
 +++
-image = "img/portfolio/railroad-forest1.jpg"
+image = "img/pandora_hearts_249770.jpg"
 showonlyimage = true
 draft = false
 date = "2017-12-25T19:53:42+05:30"
-title = "A Totally Response Theme"
-writer = "Lukas Herman"
-categories = [ "photography" ]
+title = "Pandora Hearts"
+writer = "Tristan"
 weight = 5
 +++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
-<!--more-->
+Pandora Hearts est un manga de Jun Mochizuki. Il est prépublié entre mai 2006 et mars 2015 dans le magazine GFantasy de Square Enix, et est compilé en un total de vingt-quatre tomes. La version française est éditée par Ki-oon depuis juillet 2010.
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+Une adaptation en série télévisée d'animation de vingt-cinq épisodes par le studio d'animation Xebec a été diffusée entre le 3 avril 2009 et le 25 septembre 2009 sur TBS.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+S'inspirant des œuvres de Lewis Carroll Alice au pays des merveilles et De l'autre côté du miroir1, Pandora Hearts reprend le nom et les traits caractéristiques de certains personnages, ainsi que certains thèmes. 
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 
-## Header Level 2
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+Histoire: Oz est l'héritier de la famille Vessalius, la plus puissante des quatre grandes familles ducales de son pays. Venant de célébrer ses 15 ans, il entreprend la cérémonie de passage à l'âge adulte que tout noble doit respecter. Cependant, ce qui devait n'être qu'une formalité prendra rapidement une autre tournure, Oz se voyant envoyé dans l'Abysse, un monde parallèle où selon la légende sont envoyés les pires criminels. Coopérant avec B-Rabbit, une Chain, nom donné aux habitants de ce monde, il entreprend de retourner dans son monde. C'est ainsi que commence sa longue quête de réponses, notamment sur son soi-disant crime qui pourrait finalement être plus lié qu'il ne le pense aux souvenirs perdus de B-Rabbit, autrement appelée Alice. Accompagné de celle-ci ainsi que Gil, son fidèle serviteur, et plusieurs autres alliés importants, le jeune homme n'est pas au bout de ses surprises... 

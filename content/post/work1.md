@@ -1,33 +1,15 @@
+ +++
+    showonlyimage = true
+    draft = false
+    image = "img/death-note-anime.jpg"
+    date = "2017-02-14T18:25:22+05:30"
+    title = "Death Note"
+    writer = "Tristan"
+    weight = 1
 +++
-showonlyimage = true
-draft = false
-image = "img/portfolio/a4-paper.jpg"
-date = "2017-02-14T18:25:22+05:30"
-title = "Name of the work 1"
-writer = "Lukas Herman"
-categories = [ "design"]
-weight = 1
-+++
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-<!--more-->
+Death Note (littéralement Cahier de la Mort) est un shōnen manga écrit par Tsugumi Ōba et dessiné par Takeshi Obata. Il est prépublié dans le magazine Weekly Shōnen Jump de décembre 2003 à mai 2006, par la suite publié en douze tankōbon depuis mai 2004 jusqu'à octobre 2006 par Shūeisha. La version française est éditée par Kana de janvier 2007 jusqu'à octobre 2008.
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+À la suite du succès du manga, une adaptation en anime de 37 épisodes est réalisée par Tetsurō Araki au sein du studio Madhouse et diffusée du 3 octobre 2006 au 26 juin 2007 sur Nippon Television au Japon. En France, l'anime est diffusé à partir du 2 février 2008 sur MCM et de décembre 2008 sur Virgin 17.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
-
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-## Header Level 2
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+Death Note est également adapté en trois films live, sortis au Japon entre 2006 et 2008, puis directement en DVD en France par Kazé. Une adaptation en drama est également diffusée en 2015 sur Nippon TV au Japon et en simulcast sur Crunchyroll dans les pays francophones. Plus récemment il a été repris dans un film du même nom sorti sur Netflix en 2017. 

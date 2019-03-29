@@ -1,32 +1,31 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/portfolio/camera1.jpg"
+image = "img/High_School_of_the_Dead.jpg"
 date = "2018-02-14T19:59:22+05:30"
-title = "A Post with lot of comments"
-writer = "Göran Svensson"
+title = "I School Of The Dead"
+writer = "Tristan"
 weight = 8
 +++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
-<!--more-->
+Highschool of the Dead est un manga de type shōnen écrit par Daisuke Satō et dessiné par Shōji Satō. L'histoire est publiée dans le Monthly Dragon Age depuis septembre 2006. Le manga a connu une pause de fin 2008 à mars 2010, de mai à juillet 2010 et de janvier 2011 à avril 2013.
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+L'Espagne est le premier pays, en dehors du Japon, à avoir édité Highschool of the Dead. Le manga y est renommé Apocalipsis en el Instituto2. L'édition française est disponible chez Pika Édition depuis le 1er juillet 2009. Des versions colorées des tomes sont également sorties au Japon3, et sont disponibles en France depuis novembre 2014.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Une adaptation animée de 12 épisodes correspondant aux 17 premiers chapitres du mangas a été diffusée du 5 juillet 2010 au 20 septembre 2010. En France, la série est diffusée gratuitement et légalement en version sous-titrée sur Dailymotion par Dybex5.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+L'OAV de la série, Highschool of the Dead: Drifters of the Dead, est sorti en Blu-ray 6 le 26 avril 2017 en bonus de l'édition spéciale du tome 7 au Japon.
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+L'auteur Daisuke Satō décède le 22 mars 2017 à l’âge de 52 ans à la suite d'une maladie coronarienne8. L'œuvre est depuis restée sans nouvel auteur. 
 
-## Header Level 2
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+
+
+
+
+Histoire: Le monde fut contaminé le 13 avril 2010 par une maladie mortelle d'origine inconnue, qui apparait le même jour dans les principales villes, transformant les humains en zombies et entrainant le déclin de la civilisation.
+
+Au Japon, plusieurs étudiants du lycée Fujimi, ainsi qu'une infirmière scolaire, se sont regroupés afin de survivre à cette apocalypse. L'histoire suit Takashi Komuro, l'un des rares étudiants à avoir survécu à la première attaque. 

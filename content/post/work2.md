@@ -1,37 +1,26 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "This is a Standard Post"
-writer = "Göran Svensson"
+title = "Fairy Tail"
+writer = "Tristan"
 draft = false
-image = "img/portfolio/logs1.jpg"
+image = "img/fairy-tail.jpg"
 showonlyimage = false
-categories = [ "design"]
 weight = 2
 description = "Individual meta description for this post"
 +++
 
-This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
-<!--more-->
+Fairy Tail (littéralement « Queue de fée ») est un shōnen manga écrit et dessiné par Hiro Mashima. Il est prépublié dans l’hebdomadaire Weekly Shōnen Magazine de l’éditeur Kōdansha entre le 2 août 2006 et le 27 juillet 2017 au Japon, et est compilé en un total de soixante-trois tomes. En France, en Suisse romande et en Belgique, le manga est publié en intégralité par Pika Édition entre le 10 septembre 2008 et le 27 juin 2018.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
+Face au succès, le manga a été adapté en anime avec une série télévisée d’animation diffusée depuis octobre 2009, neuf OAV et deux films d’animation sortis par les studios A-1 Pictures, Satelight et Bridge au Japon. En France, l’anime est diffusé depuis le 3 juin 2011 sur Game One1 et depuis le 28 janvier 2012 sur Direct Star2 puis D173. Au Québec, l’anime est disponible en VOD sur la plate-forme Illico télé numérique de Vidéotron depuis 2012. 
 
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 
-## Header Level 2
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+Histoire: Dans le royaume de Fiore, il existe parmi le commun des mortels des hommes et des femmes qui manipulent la magie : ils sont appelés mages. Pour mieux les contrôler, des guildes — endroits où les mages se réunissent et font des travaux afin de gagner des joyaux (monnaie de Fiore) — ont été créées et mises sous la responsabilité du conseil de la magie (par l’intermédiaire des maîtres de guildes).
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Outre la nécessité de contrôler des mages, ce réseau a d’autres utilités. En effet, il permet de fournir un large choix de mages au client, et de nombreuses missions aux mages par le biais de petites annonces.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+Parmi les nombreuses guildes, une d’entre elles fait particulièrement parler d’elle, que ce soit par les actes réalisés par ses membres, mais aussi et surtout pour les dégâts matériels provoqués par ces derniers à chaque mission qu’ils effectuent. Il s’agit de Fairy Tail. 

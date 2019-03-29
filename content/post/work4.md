@@ -1,33 +1,27 @@
 +++
 draft = false
-image = ""
+image = "img/black.jpg"
 showonlyimage = false
 date = "2017-11-21T19:50:47+05:30"
-title = "A post without an Image"
+title = "Black Butler"
 writer = "Tristan"
-categories = [ "code" ]
 weight = 4
 +++
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-<!--more-->
+Black Butler est un shōnen manga de Yana Toboso. Il est prépublié depuis septembre 2006 dans le magazine Monthly GFantasy appartenant à l'éditeur japonais Square Enix, et est compilé en vingt-huit tomes au 28 mars 2019. La version française est éditée par Kana, et vingt-sept tomes sont sortis en mars 2019.
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+À la suite du succès du manga, une adaptation en série télévisée d'animation produite par le studio A-1 Pictures a été diffusée entre octobre 2008 et mars 2009 sur la chaîne TBS au Japon, soit à peu près 2 ans après le début de parution du manga. L’auteur, Yana Toboso, a ainsi conquis un large public. Une deuxième saison est diffusée entre juillet et septembre 2010. Une troisième saison, Book of Circus, plus fidèle à l'intrigue du manga que les précédentes et adaptant l'arc du Cirque Noah est diffusée entre juillet et septembre 2014, et deux OAV, Book of Murder, adaptant l'arc du meurtre au manoir sont sortis en octobre et novembre 2014. Un film d'animation, Book of the Atlantic, adaptant l'arc du voyage sur le Campania, est sorti en janvier 2017.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Dans les pays francophones, la licence de la série animée a été acquise par Kana Home Video. Les épisodes sont diffusés en streaming sur le site Anime Digital Network, puis sur Netflix depuis juillet 2018. 
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 
-## Header Level 2
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+Histoire: Le Comte Ciel Phantomhive est un aristocrate anglais du XIXe siècle au passé tourmenté. Entre les années 1888 et 1889, âgé de 12 ans et ayant perdu ses parents dans un incendie inexplicable, il se voit devenir l’héritier de l’entreprise de jouets et friandises Phantom. Il habite dans un mystérieux manoir à la campagne, aux abords de Londres, en compagnie de ses domestiques.
+
+Son fidèle majordome nommé Sebastian Michaelis est en fait un démon avec qui il aurait passé un pacte. En effet Sebastian se serait présenté à Ciel, alors sur le point de mourir, et lui aurait proposé un contrat : son âme en échange de sa protection jusqu’à l’accomplissement de sa vengeance. Le signe du pacte, un pentacle, se trouve à son œil droit, que Ciel garde toujours caché sauf lorsqu’il a besoin de faire appel à son majordome protecteur. Sebastian a le signe du pacte sur sa main gauche.
+
+C’est ainsi que Ciel et son majordome se mettent à résoudre différentes énigmes, en général surnaturelles, sur ordre de la reine Victoria du Royaume-Uni. Ciel est le « chien de garde de la Reine », un agent privé chargé de démêler les complots occultes qui se trament dans le royaume. Il est aussi très perspicace et sûr de lui (pour son âge) lorsqu’il s’agit de mener une enquête, doublant souvent Scotland Yard dans leurs investigations… 

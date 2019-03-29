@@ -1,5 +1,5 @@
 baseurl = "https://hugo-pasta.netlify.com/"
-title = "Nederburg"
+title = "ARKAWAMANGA"
 theme = "hugo-nederburg-theme"
 languageCode = "fr-fr"
 # Enable comments by entering your Disqus shortname
@@ -22,16 +22,16 @@ paginate = 5 #frontpage pagination
 [params]
   # Unmark to use post folder for images. Default is static folder.
   #usepostimgfolder = true
-  slogan = "A fast &amp; secure theme"
+  slogan = " Best site Mangas"
   description = "Describe your website" # meta description
   # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
-  author = "Göran Svensson"
+  author = "Tristan"
   authorLink = "https://appernetic.io/"
   bio = [
     "Göran is an avid blogger and the founder of <a href='https://appernetic.io/'>Appernetic.io</a>. This is the author bio shown after posts."
   ]
   copyright = [
-    "&copy; 2018 Göran Svensson",
+    "&copy; 2018 Tristan",
     "Nederburg Hugo Theme by [Appernetic](https://appernetic.io).",
     "A port of Tracks by Compete Themes."
   ]
