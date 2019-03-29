@@ -31,6 +31,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/post/black-butler.md
 - content/post/pandora-hearts.md
 - content/post/i-school-of-the-dead.md
 - content/post/tripeace.md
