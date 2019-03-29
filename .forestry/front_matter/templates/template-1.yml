@@ -31,5 +31,6 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/post/death-note.md
 - content/post/azerty.md
 - content/post/fullmetal-alchemist.md
