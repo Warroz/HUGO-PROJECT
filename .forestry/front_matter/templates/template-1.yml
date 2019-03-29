@@ -31,6 +31,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/post/doubt.md
 - content/post/fairy-tail.md
 - content/post/death-note.md
 - content/post/azerty.md
